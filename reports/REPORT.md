@@ -1,6 +1,6 @@
 # Báo cáo Ngày 4 - Keypoint & Pose
 
-Họ tên: Quan1242  | Nhóm: solo  | Ngày: 2026-09-16
+Họ tên: Nghiêm Việt Quân  | Nhóm: solo  | Ngày: 2026-09-16
 
 ## 1. Nhãn của tôi
 
